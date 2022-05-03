@@ -1,4 +1,3 @@
-# human-activity-classification
 # Human Activity Classification from Accelerometer Time-series data
 
 Sai Surya Nattuva <br />
