@@ -1,0 +1,880 @@
+[{
+    "id": 10,
+    "annotations": [{
+        "id": 4,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "start": "2022-04-20 00:00:02.818000",
+                "end": "2022-04-20 00:00:03.883000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "5VQqLvq81z",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:04.320000",
+                "end": "2022-04-20 00:00:05.393000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "DARsbRbJFR",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:05.764000",
+                "end": "2022-04-20 00:00:06.920000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "yKSpZ22nHa",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:08.962000",
+                "end": "2022-04-20 00:00:09.905000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "EgGfF5Xfd4",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:10.219000",
+                "end": "2022-04-20 00:00:11.217000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "-xIOuldr9P",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:11.573000",
+                "end": "2022-04-20 00:00:12.919000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "GjMjyJlC-n",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:14.596000",
+                "end": "2022-04-20 00:00:15.400000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "j28rt_eUFl",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:15.591000",
+                "end": "2022-04-20 00:00:16.507000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "SC0ocZmoWD",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:16.784000",
+                "end": "2022-04-20 00:00:17.639000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "NPsYlwEGBQ",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:19.275000",
+                "end": "2022-04-20 00:00:19.998000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "1sUBPaA8zC",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:20.376000",
+                "end": "2022-04-20 00:00:21.156000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "iHgBE_2A-a",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:21.337000",
+                "end": "2022-04-20 00:00:22.413000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "pSns5f0-ra",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:23.956000",
+                "end": "2022-04-20 00:00:24.727000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "mocd3RASWs",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:25.067000",
+                "end": "2022-04-20 00:00:25.773000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "869W7_bFPM",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:25.941000",
+                "end": "2022-04-20 00:00:26.932000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "e35eHHu4VW",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:40.889000",
+                "end": "2022-04-20 00:00:41.377000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "Jovt84GSNA",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:41.423000",
+                "end": "2022-04-20 00:00:41.873000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "MaKCmTHXzC",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:42.012000",
+                "end": "2022-04-20 00:00:42.480000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "6UalKZzYaq",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:42.569000",
+                "end": "2022-04-20 00:00:43.025000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "KDXAmZFhbf",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:43.366000",
+                "end": "2022-04-20 00:00:43.793000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "9e99vlbcbQ",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:43.981000",
+                "end": "2022-04-20 00:00:44.406000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "CZNfX4GaiF",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:44.517000",
+                "end": "2022-04-20 00:00:45.208000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "L9zUlseLn0",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:45.340000",
+                "end": "2022-04-20 00:00:45.664000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "P7TkljRZLV",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:33.811000",
+                "end": "2022-04-20 00:00:34.054000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "oDgC-7Eeb5",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:34.099000",
+                "end": "2022-04-20 00:00:34.310000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "S18Rg3v1l0",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:34.466000",
+                "end": "2022-04-20 00:00:35.044000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "EsAqazorxh",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:35.735000",
+                "end": "2022-04-20 00:00:35.895000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "hmIIwoGu94",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:35.945000",
+                "end": "2022-04-20 00:00:36.100000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "dxqHg6rrin",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:36.190000",
+                "end": "2022-04-20 00:00:36.838000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "hmZ7Hmvhek",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:37.279000",
+                "end": "2022-04-20 00:00:37.537000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "13iEOZwyCi",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:37.582000",
+                "end": "2022-04-20 00:00:37.754000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "FqFnxH2kdW",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:37.805000",
+                "end": "2022-04-20 00:00:38.450000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "HqPt4rEnh1",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:54.757000",
+                "end": "2022-04-20 00:00:55.563000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "o0xMQn5Lrw",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:55.892000",
+                "end": "2022-04-20 00:00:56.782000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "57lduQU3VO",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:56.850000",
+                "end": "2022-04-20 00:00:57.606000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "sKVfrMRGkA",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:00:58.030000",
+                "end": "2022-04-20 00:00:58.620000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "Cx82LZOHj5",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:00.656000",
+                "end": "2022-04-20 00:01:01.058000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "leMdW8WuEt",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:01.169000",
+                "end": "2022-04-20 00:01:01.645000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "BCqTxBSHbq",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:01.870000",
+                "end": "2022-04-20 00:01:02.549000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "0NhCPxyelw",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:04.986000",
+                "end": "2022-04-20 00:01:05.922000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "QQ_sPRWrgp",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:06.599000",
+                "end": "2022-04-20 00:01:07.246000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "DRDOWRoZEu",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:07.558000",
+                "end": "2022-04-20 00:01:08.136000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "M9qhbBEwkF",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:08.381000",
+                "end": "2022-04-20 00:01:08.859000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "9VSJjDHRWU",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:08.954000",
+                "end": "2022-04-20 00:01:09.751000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "ALZLPKZGuO",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:12.992000",
+                "end": "2022-04-20 00:01:13.457000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "2dQ5eGKwRN",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:13.647000",
+                "end": "2022-04-20 00:01:14.361000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "F_fGUSoi6E",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:14.550000",
+                "end": "2022-04-20 00:01:15.248000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "_XGIWJ1TH4",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:19.817000",
+                "end": "2022-04-20 00:01:20.417000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "sNOGUgIHlC",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:20.583000",
+                "end": "2022-04-20 00:01:21.386000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "TledxCgYbr",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:21.564000",
+                "end": "2022-04-20 00:01:22.233000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "Xd4TcTMJPV",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:23.943000",
+                "end": "2022-04-20 00:01:24.445000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "FRbNOFHH9x",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:24.568000",
+                "end": "2022-04-20 00:01:25.168000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "lkDgxzxnhl",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:25.369000",
+                "end": "2022-04-20 00:01:26.116000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "GUOO6IyL2o",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:27.304000",
+                "end": "2022-04-20 00:01:27.971000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "YAt_VWM_A3",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:28.164000",
+                "end": "2022-04-20 00:01:28.687000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "T2UoZxHz4m",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:28.851000",
+                "end": "2022-04-20 00:01:29.564000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "wAsr9khsXo",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:30.903000",
+                "end": "2022-04-20 00:01:31.444000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "E05GfGsMYk",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:31.543000",
+                "end": "2022-04-20 00:01:32.149000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "tls4gfTR2i",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:32.367000",
+                "end": "2022-04-20 00:01:33.113000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "ar2iKpjW0I",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:35.327000",
+                "end": "2022-04-20 00:01:35.911000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "fFl00Yt3sY",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:34.317000",
+                "end": "2022-04-20 00:01:35.162000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "6j4wn4cNaq",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:36.084000",
+                "end": "2022-04-20 00:01:36.820000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "kX8tikP6nD",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:37.888000",
+                "end": "2022-04-20 00:01:38.409000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "CAnUi4OwA2",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:38.521000",
+                "end": "2022-04-20 00:01:39.235000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "QJ69gl7vI2",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:39.413000",
+                "end": "2022-04-20 00:01:40.113000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "6gSdTuuGdP",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:41.405000",
+                "end": "2022-04-20 00:01:41.962000",
+                "instant": false,
+                "timeserieslabels": ["Cross"]
+            },
+            "id": "ZQUUA0r-z2",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:42.173000",
+                "end": "2022-04-20 00:01:42.773000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "qgXmcRC1bj",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:43.019000",
+                "end": "2022-04-20 00:01:43.810000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "nbG4EreCYf",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:44.879000",
+                "end": "2022-04-20 00:01:45.501000",
+                "instant": false,
+                "timeserieslabels": ["Jab"]
+            },
+            "id": "bQcESLOVN9",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:45.638000",
+                "end": "2022-04-20 00:01:46.280000",
+                "instant": false,
+                "timeserieslabels": ["Hook"]
+            },
+            "id": "ZVPxThOv13",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }, {
+            "value": {
+                "start": "2022-04-20 00:01:46.470000",
+                "end": "2022-04-20 00:01:47.130000",
+                "instant": false,
+                "timeserieslabels": ["Uppercut"]
+            },
+            "id": "fh3mQsLLox",
+            "from_name": "label",
+            "to_name": "ts",
+            "type": "timeserieslabels",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-04-21T03:36:35.857648Z",
+        "updated_at": "2022-04-21T03:36:35.857691Z",
+        "lead_time": 1569.493,
+        "prediction": {},
+        "result_count": 0,
+        "task": 10,
+        "parent_prediction": null,
+        "parent_annotation": null
+    }],
+    "file_upload": "2417bf78-dat_cumulative_rounded_tstamp.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "timeseriesUrl": "\/data\/upload\/3\/2417bf78-dat_cumulative_rounded_tstamp.csv"
+    },
+    "meta": {},
+    "created_at": "2022-04-20T21:01:06.696324Z",
+    "updated_at": "2022-04-21T03:36:35.899013Z",
+    "project": 3
+}]
