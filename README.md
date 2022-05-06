@@ -21,4 +21,3 @@ This repo consists of 3 iPython notebooks - <i>data_cleaner</i>, <i>data_labelle
 - Human Activity Classification from Time Series Data: This notebook is has the code related to creating windows, splitting the input data into train, validation and test sets, hyperparameter tuning, model training, model learning plots, and model evaluation. This notebook's execution is structured and divided into subsections with brief function descriptions at the start of each function.
 <br />
 Note: Every notebook in this project is located in the `./code` folder. Every notebook is supposed to be run in the order of the cells to ensure that the code runs seamlessly. 
-
