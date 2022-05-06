@@ -27,4 +27,3 @@ This repo consists of 3 iPython notebooks - *data_cleaner*, *data_labeller*, and
 <br />
 
 Note: Every notebook in this project is located in the `./code` folder. Every notebook is supposed to be run in the order of the cells to ensure that the code runs seamlessly. 
-
