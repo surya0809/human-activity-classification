@@ -1,0 +1,12 @@
+Validation set shape:
+(83, 4, 64, 1)
+Validation set label shape:
+(83,)
+Test set shape:
+(33, 4, 64, 1)
+Test set label shape:
+(33,)
+Training set shape:
+(214, 4, 64, 1)
+Training set label shape:
+(214,)
