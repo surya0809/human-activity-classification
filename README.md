@@ -1,5 +1,5 @@
 # Human Activity Classification from Accelerometer Time-series data
-Master's Capstone Project
+Master's Capstone Project <br />
 Sai Surya Nattuva <br />
 Advisor: Prof Gokhan Kul <br />
 University of Massachusetts Dartmouth <br />
