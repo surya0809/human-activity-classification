@@ -11,7 +11,9 @@ University of Massachusetts Dartmouth <br />
 
 # References
 > A. Jafari, A. Ganesan, C. S. K. Thalisetty, V. Sivasubramanian, T. Oates and T. Mohsenin, "SensorNet: A Scalable and Low-Power Deep Convolutional Neural Network for Multimodal Data Classification," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 66, no. 1, pp. 274-287, Jan. 2019, doi: 10.1109/TCSI.2018.2848647.
+
 > Physics Toolbox Sensor Suite Pro, Vieyra Software
+
 > {Label Studio}: Data labeling software, Heartex Labs
 <hr />
 
